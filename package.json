@@ -1,0 +1,20 @@
+{
+  "name": "seguro_final",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "botstrap": "^0.18.16",
+    "react": "^16.1.1",
+    "react-bootstrap": "^0.31.5",
+    "react-dom": "^16.1.1",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.0.17",
+    "redux-zero": "^4.5.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
